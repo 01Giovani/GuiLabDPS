@@ -1,2 +1,0 @@
-# GuiLabDPS
-guias laboratorio DPS
